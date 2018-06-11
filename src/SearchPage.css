@@ -1,0 +1,14 @@
+.GifHolder {
+  display: flex;
+  width: 100%;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.search-input {
+	margin: 10px auto;
+	width: 200px;
+	display: block;
+	padding: 7px;
+	font-size: 14px;
+}
